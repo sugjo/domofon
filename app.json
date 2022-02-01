@@ -1,0 +1,17 @@
+{
+  "name": "BarierIntercom",
+  "displayName": "Барьер Интерком",
+  "expo": {
+    "name": "Барьер Интерком",
+    "slug": "BarierIntercom",
+    "version": "1.0.0",
+    "icon": "./src/view/res/icons/Icon.png",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "index.js"
+    }
+  }
+}
